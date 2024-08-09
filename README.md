@@ -18,13 +18,6 @@ Este projeto é uma agenda virtual que permite o agendamento, por parte dos clie
   <li>Exclusão de Agendamentos: O usuário pode excluir compromissos da tabela de agendamentos. Os agendamentos excluídos são removidos da tabela principal e registrados em uma tabela de backup.</li>
   <li>Visualização de Agendamentos Excluídos: A aplicação exibe uma tabela separada na interface do usuário que lista todos os agendamentos que foram excluídos, armazenados na tabela de backup.</li>
 </ul>
-  
-### Como Jogar
-1. Visualize a lista de palavras que você precisa encontrar;
-2. Clique nas letras da grade para formar as palavras;
-3. As palavras encontradas serão destacadas na grade;
-4. Continue até encontrar todas as palavras da lista;
-5. Uma mensagem de parabéns será exibida quando todas as palavras forem encontradas.
 
 ### Integrantes
 <ul>
